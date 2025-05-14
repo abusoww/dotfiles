@@ -1,0 +1,63 @@
+; Copyright © niivu DESIGNS.
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_gruvbox light - LACE NA
+DisplayName=gruvbox light - LACE NA
+SetLogonBackground=0
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\gruvbox\Icons\PC.ico
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue==%SystemRoot%\Resources\Themes\gruvbox\Icons\USER.ico
+
+[Control Panel\Cursors]
+AppStarting=%ResourceDir%\Themes\gruvbox\cursors\light\busy.ani
+Arrow=%ResourceDir%\Themes\gruvbox\cursors\light\arrow.cur
+Crosshair=%ResourceDir%\Themes\gruvbox\light\dark\cross.cur
+Hand=%ResourceDir%\Themes\gruvbox\cursors\light\link.cur
+Help=%ResourceDir%\Themes\gruvbox\cursors\light\helpsel.cur
+IBeam=%ResourceDir%\Themes\gruvbox\cursors\light\ibeam.cur
+No=%ResourceDir%\Themes\gruvbox\cursors\light\unavail.cur
+NWPen=%ResourceDir%\Themes\gruvbox\cursors\light\pen.cur
+SizeAll=%ResourceDir%\Themes\gruvbox\cursors\light\move.cur
+SizeNESW=%ResourceDir%\Themes\gruvbox\cursors\light\nesw.cur
+SizeNS=%ResourceDir%\Themes\gruvbox\cursors\light\ns.cur
+SizeNWSE=%ResourceDir%\Themes\gruvbox\cursors\light\nwse.cur
+SizeWE=%ResourceDir%\Themes\gruvbox\cursors\light\ew.cur
+UpArrow=%ResourceDir%\Themes\gruvbox\cursors\light\up.cur
+Wait=%ResourceDir%\Themes\gruvbox\cursors\light\wait.ani
+DefaultValue=Windows Default
+DefaultValue.MUI=@main.cpl,-1020
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\Resources\Themes\gruvbox\Previews\gruvbox light - LACE.png
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[VisualStyles]
+Path=%ResourceDir%\Themes\gruvbox\gruvbox light - LACE NA.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XFF98971A
+AppMode=Light
+SystemMode=Light
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=@%SystemRoot%\System32\mmres.dll,-800
+
+[Slideshow]
+Interval=1000000
+Shuffle=1
+ImagesRootPath=%SystemRoot%\Resources\Themes\gruvbox\Wallpapers\
