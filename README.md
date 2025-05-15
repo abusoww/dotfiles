@@ -103,7 +103,7 @@
       <summary>click here!</summary>
 
       * **Open the WinHawk app and turn on UXTheme Hook** 
-        💡 This patcher allows non-Microsoft themes to be used on Windows..
+        (💡 This patcher allows non-Microsoft themes to be used on Windows..)
 
       * **Download the theme ZIP file**  
         Download the Gruvbox theme ZIP file → Right-click → Extract All…
