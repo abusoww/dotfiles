@@ -8,7 +8,7 @@
 &ensp;[<kbd> <br> Recomendations <br> </kbd>](#Recomendations)&ensp;
 <br><br></div>
 
-<div align="center">
+
 
 ![explorer_6eytPQeX1a](https://github.com/user-attachments/assets/96da2325-6ca1-4b9b-bfc0-219b25abcdea)
 ![explorer_wl21gvaNer](https://github.com/user-attachments/assets/c6518e2c-24f8-43d3-916a-2ddd4e4cb851)
