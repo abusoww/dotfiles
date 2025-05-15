@@ -31,7 +31,7 @@
 ## 🖼️ Wallpapers
 
 <details>
-<summary>tacky-borders config (click to expand)</summary>
+<summary>click here!</summary>
 
 | Column 1 | Column 2 | Column 3 |
 |---------|---------|---------|
