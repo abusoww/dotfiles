@@ -95,16 +95,16 @@
 
     ---
 
-    <h2 align="center">This are optional</h2>
+    <h2 align="center">These are optional</h2>
 
 
     ### 🎨 UXTheme Hook
       <details>
       <summary>click here!</summary>
 
-      * **Open the WinHawk app and turn on UXTheme Hook** 
-      
-        (💡 This patcher allows non-Microsoft themes to be used on Windows..)
+      * > **Open the WinHawk app and turn on UXTheme Hook**  
+        > 💡 *This patcher allows non-Microsoft themes to be used on Windows.*
+
 
       * **Download the theme ZIP file**  
         Download the Gruvbox theme ZIP file → Right-click → Extract All…
@@ -122,7 +122,7 @@
       </details>
 
 
-    ##### 📂 Windows 11 File Explorer Styler
+    ### 📂 Windows 11 File Explorer Styler
     <details>
     <summary>click here!</summary>
     Open the mod’s **Settings** → select the **Minimal Explorer11** preset → click **Save Settings**.
