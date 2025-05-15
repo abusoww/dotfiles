@@ -52,60 +52,60 @@
 2. **Apply Custom Configurations**:
 
 
-##### 🎨 UXTheme Hook
-No configuration needed — just install it to enable third-party theme support.
+    ##### 🎨 UXTheme Hook
+    No configuration needed — just install it to enable third-party theme support.
 
----
+    ---
 
-##### 🖥️ Taskbar Height and Icon Size
-Go to the mod → **Details** → **Advanced**, and paste the following:
+    ##### 🖥️ Taskbar Height and Icon Size
+    Go to the mod → **Details** → **Advanced**, and paste the following:
 
-```json
-{"taskbarHeight":48,"iconSize":"small","centerIcons":true,"transparency":0.85,"colorMode":"custom","customColor":"#282828"}
-```
+    ```json
+    {"taskbarHeight":48,"iconSize":"small","centerIcons":true,"transparency":0.85,"colorMode":"custom","customColor":"#282828"}
+    ```
 
----
+    ---
 
-##### 🎛️ Taskbar Styler
-Go to the mod → **Details** → **Advanced**, and paste:
+    ##### 🎛️ Taskbar Styler
+    Go to the mod → **Details** → **Advanced**, and paste:
 
-```json
-{"blur":true,"acrylic":true,"color":"#1e1e2e","border":false,"shadow":false}
-```
+    ```json
+    {"blur":true,"acrylic":true,"color":"#1e1e2e","border":false,"shadow":false}
+    ```
 
----
+    ---
 
-##### 🕒 Taskbar Clock Customization
-Go to the mod → **Details** → **Advanced**, and paste:
+    ##### 🕒 Taskbar Clock Customization
+    Go to the mod → **Details** → **Advanced**, and paste:
 
-```json
-{"format":"HH:mm","fontSize":14,"bold":true,"alignment":"center"}
-```
+    ```json
+    {"format":"HH:mm","fontSize":14,"bold":true,"alignment":"center"}
+    ```
 
----
+    ---
 
-##### 🪟 Start Menu Styler
-Go to the mod → **Details** → **Advanced**, and paste:
+    ##### 🪟 Start Menu Styler
+    Go to the mod → **Details** → **Advanced**, and paste:
 
-```json
-{"transparency":0.9,"backgroundColor":"#1a1a1a","blur":true,"roundedCorners":true}
-```
+    ```json
+    {"transparency":0.9,"backgroundColor":"#1a1a1a","blur":true,"roundedCorners":true}
+    ```
 
----
+    ---
 
-##### 🔔 Windows 11 Notification Center Styler
-Go to the mod → **Details** → **Advanced**, and paste:
+    ##### 🔔 Windows 11 Notification Center Styler
+    Go to the mod → **Details** → **Advanced**, and paste:
 
-```json
-{"backgroundColor":"#202020","blur":true,"transparency":0.8,"roundedCorners":true}
-```
+    ```json
+    {"backgroundColor":"#202020","blur":true,"transparency":0.8,"roundedCorners":true}
+    ```
 
----
+    ---
 
-##### 📂 Windows 11 File Explorer Styler
-Open the mod’s **Settings** → select the **Minimal Explorer 11** preset → click **Save Settings**.
+    ##### 📂 Windows 11 File Explorer Styler
+    Open the mod’s **Settings** → select the **Minimal Explorer 11** preset → click **Save Settings**.
 
----
+    ---
 
 
 
