@@ -53,7 +53,7 @@
 
 2. **Apply Custom Configurations**:
 
-    ##### 🎛️ Taskbar Styler
+    ### 🎛️ Taskbar Styler
     Go to the mod → **Details** → **Advanced**, and paste:
 
     ```json
@@ -62,7 +62,7 @@
 
     ---
 
-    ##### 🖥️ Taskbar Height and Icon Size
+    ### 🖥️ Taskbar Height and Icon Size
     Go to the mod → **Details** → **Advanced**, and paste the following:
 
     ```json
@@ -71,7 +71,7 @@
 
     ---
 
-    ##### 🕒 Taskbar Clock Customization
+    ### 🕒 Taskbar Clock Customization
     Go to the mod → **Details** → **Advanced**, and paste:
 
     ```json
@@ -80,7 +80,7 @@
 
     ---
 
-    ##### 🪟 Start Menu Styler
+    ### 🪟 Start Menu Styler
     Go to the mod → **Details** → **Advanced**, and paste:
 
     ```json
@@ -91,7 +91,7 @@
 
 
 
-    ##### 🔔 Windows 11 Notification Center Styler
+    ### 🔔 Windows 11 Notification Center Styler
     Go to the mod → **Details** → **Advanced**, and paste:
 
     ```json
@@ -101,7 +101,7 @@
     ---
 
 
-    ##### 🎨 UXTheme Hook
+    ### 🎨 UXTheme Hook
     No configuration needed — just install it to enable third-party theme support.
 
     ---
