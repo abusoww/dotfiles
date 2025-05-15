@@ -103,6 +103,7 @@
       <summary>click here!</summary>
 
       * **Open the WinHawk app and turn on UXTheme Hook** 
+      
         (💡 This patcher allows non-Microsoft themes to be used on Windows..)
 
       * **Download the theme ZIP file**  
