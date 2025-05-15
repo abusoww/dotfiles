@@ -3,8 +3,8 @@
 <div align = center>
 
 &ensp;[<kbd> <br> Screenshots <br> </kbd>](https://github.com/abusoww/dotfiles/edit/main/README.md#--my-current-desktop-dotfiles)&ensp;
-&ensp;[<kbd> <br> Stuff I used <br> </kbd>](https://github.com/abusoww/dotfiles/edit/main/README.md#%EF%B8%8F-used)&ensp;
-&ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
+&ensp;[<kbd> <br> Stuff I used <br> </kbd>](#%EF%B8%8F-used)&ensp;
+&ensp;[<kbd> <br> Installation <br> </kbd>](##Installation)&ensp;
 &ensp;[<kbd> <br> Recomendations <br> </kbd>](#Recomendations)&ensp;
 <br><br></div>
 
@@ -30,7 +30,7 @@
 
 
 
-## 🚀 Installation (taskbar,start menu and explorer)
+## 🚀 Installation
 
 1. **Prerequisites**
 - Windows 10/11 (64-bit)
