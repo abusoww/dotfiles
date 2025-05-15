@@ -1,5 +1,15 @@
 <h1 align="center">🌾  My Current Desktop Dotfiles</h1>
 
+<div align = center>
+
+&ensp;[<kbd> <br> Screenshots <br> </kbd>](https://github.com/abusoww/dotfiles/edit/main/README.md#--my-current-desktop-dotfiles)&ensp;
+&ensp;[<kbd> <br> Stuff I used <br> </kbd>](https://github.com/abusoww/dotfiles/edit/main/README.md#%EF%B8%8F-used)&ensp;
+&ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
+&ensp;[<kbd> <br> Recomendations <br> </kbd>](#Recomendations)&ensp;
+<br><br></div>
+
+<div align="center">
+
 ![explorer_6eytPQeX1a](https://github.com/user-attachments/assets/96da2325-6ca1-4b9b-bfc0-219b25abcdea)
 ![explorer_wl21gvaNer](https://github.com/user-attachments/assets/c6518e2c-24f8-43d3-916a-2ddd4e4cb851)
 ![explorer_IYOiDAoetV](https://github.com/user-attachments/assets/5f5e6624-aeb5-4720-8f97-c1bcbb745e9a)
