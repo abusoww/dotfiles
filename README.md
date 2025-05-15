@@ -114,6 +114,8 @@
 
 
 
+<div align = center>
+
 ## 🖼️ Wallpapers
 
 <details>
