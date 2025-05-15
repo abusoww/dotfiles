@@ -102,7 +102,9 @@
 
     ### 🎨 UXTheme Hook
       1. **Enable UXTheme Hook**  
-        Open the WinHawk app and turn on **UXTheme Hook**.  
+        Open the WinHawk app and turn on **UXTheme Hook**. 
+
+        > [!NOTE]
         > 💡 This patcher allows non-Microsoft themes to be used on Windows..
 
       2. **Download the theme ZIP file**  
