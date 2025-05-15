@@ -28,6 +28,41 @@
 - **Terminal:** [Fluent Terminal](https://github.com/felixse/FluentTerminal)
 - Reach me at: [nicat@abusov.com](mailto:nicat@abusov.com)
 
+
+
+## 🚀 Installation (taskbar,start menu and explorer)
+
+### Prerequisites
+- Windows 10/11 (64-bit)
+- [Windhawk](https://windhawk.net/) installed
+
+### Step-by-Step Setup
+
+1. **Install Mods in Windhawk**:
+   - Open Windhawk → Explore
+   - Install:
+     - `Windows 11 File Explorer Styler`
+     - `Taskbar Styler`
+     - `Start Menu Styler`
+     - `Taskbar Clock Customization`
+     - `Taskbar height and icon size`
+     - `Windows 11 Notification Center Styler`
+     - `UXTheme hook`
+
+2. **Apply Custom Configurations**:
+
+   **For Taskbar (height and icon size):**
+   ```json
+   {
+     "taskbarHeight": 48,
+     "iconSize": "small",
+     "centerIcons": true,
+     "transparency": 0.85,
+     "colorMode": "custom",
+     "customColor": "#28282
+    }
+
+
 ## 🖼️ Wallpapers
 
 <details>
@@ -38,7 +73,6 @@
 | ![3d-model.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/3d-model.jpg) | ![abandoned-trainstation.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/abandoned-trainstation.jpg) | ![abstract-swirls.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/abstract-swirls.jpg) | 
 | ![artificial-valley.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/artificial-valley.jpg) | ![atlantis.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/atlantis.jpg) | ![bars.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/bars.jpg) | 
 | ![beach.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/beach.jpg) | ![beach-path.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/beach-path.jpg) | ![berries-1.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/berries-1.jpg) | 
-| ![biking-sunset.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/biking-sunset.jpg) | ![blueberries.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/blueberries.jpg) | ![blue-flowers.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/blue-flowers.jpg) | 
 
 
 <div align="center">
