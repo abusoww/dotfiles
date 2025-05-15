@@ -61,12 +61,7 @@
     ```
 
 
-<<<<<<< HEAD
     ###  Taskbar Height and Icon Size
-=======
-
-    ### 🖥️ Taskbar Height and Icon Size
->>>>>>> ac473a593b26b9dc973b0c5122d2c0599c68c89d
     Go to the mod → **Advanced**, paste this to **Mod settings** and save:
 
     ```json
@@ -74,12 +69,7 @@
     ```
 
 
-<<<<<<< HEAD
     ###  Taskbar Clock Customization
-=======
-
-    ### 🕒 Taskbar Clock Customization
->>>>>>> ac473a593b26b9dc973b0c5122d2c0599c68c89d
     Go to the mod → **Advanced**, paste this to **Mod settings** and save:
 
     ```json
@@ -87,12 +77,7 @@
     ```
 
 
-<<<<<<< HEAD
     ###  Start Menu Styler
-=======
-
-    ### 🪟 Start Menu Styler
->>>>>>> ac473a593b26b9dc973b0c5122d2c0599c68c89d
     Go to the mod → **Advanced**, paste this to **Mod settings** and save:
 
     ```json
@@ -101,12 +86,7 @@
 
 
 
-<<<<<<< HEAD
     ###  Windows 11 Notification Center Styler
-=======
-
-    ### 🔔 Windows 11 Notification Center Styler
->>>>>>> ac473a593b26b9dc973b0c5122d2c0599c68c89d
     Go to the mod → **Advanced**, paste this to **Mod settings** and save:
 
     ```json
