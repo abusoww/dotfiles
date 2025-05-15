@@ -30,6 +30,9 @@
 
 ## 🖼️ Wallpapers
 
+<details>
+<summary>tacky-borders config (click to expand)</summary>
+
 | Column 1 | Column 2 | Column 3 |
 |---------|---------|---------|
 | ![3d-model.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/3d-model.jpg) | ![abandoned-trainstation.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/abandoned-trainstation.jpg) | ![abstract-swirls.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/abstract-swirls.jpg) | 
@@ -45,9 +48,11 @@
 
 </div>
 
-
-
 </details>
+
+
+
+
 
 ## 🚀 Other Open Source Softwares I Use
 
