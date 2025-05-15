@@ -155,14 +155,14 @@
 
 | Column 1 | Column 2 | Column 3 |
 |---------|---------|---------|
-| ![3d-model.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/3d-model.jpg) | ![abandoned-trainstation.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/abandoned-trainstation.jpg) | ![abstract-swirls.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/abstract-swirls.jpg) | 
-| ![artificial-valley.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/artificial-valley.jpg) | ![atlantis.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/atlantis.jpg) | ![bars.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/bars.jpg) | 
-| ![beach.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/beach.jpg) | ![beach-path.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/beach-path.jpg) | ![berries-1.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/berries-1.jpg) | 
+| ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/cabin-4.png) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/cabin-5.png) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/cat-in-clouds.png) | 
+| ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/painting-standing.jpg) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/degirled.png) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/tower.png) | 
+| ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/wanderer.jpg) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/tux-socialism.jpg) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/windows-error.jpg) | 
 
 
 <div align="center">
 
-| [Full Collection](https://github.com/abusoww/dotfiles/wallpapers/) |
+| [Full Collection](https://github.com/abusoww/dotfiles/tree/main/wallpapers) |
 |-------------------------------------------------------------------|
 
 </div>
