@@ -125,7 +125,7 @@
     ### 📂 Windows 11 File Explorer Styler
     <details>
     <summary>click here!</summary>
-    Open the mod’s **Settings** → select the **Minimal Explorer11** preset → click **Save Settings**.
+    Open the mod’s **Settings** → select the **Minimal Explorer11** preset → click **Save Settings**
 
     </details>
     
