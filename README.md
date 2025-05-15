@@ -162,8 +162,7 @@
 
 ## 🚀 Other Open Source Softwares I Use
 
-| Entry                   | App                                                                 |
-|-------------------------|---------------------------------------------------------------------|
+
 | Screen Capture          | 📸 [ShareX](https://getsharex.com/)                               |
 | Window Management       | 🖱️ [AltSnap](https://github.com/RamonUnch/AltSnap)               |
 | Touchpad Gestures       | ✍️ [GestureSign](https://www.softpedia.com/get/System/OS-Enhancements/GestureSign.shtml) |
