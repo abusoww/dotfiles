@@ -1,6 +1,11 @@
 <h1 align="center">🌾  My Current Desktop Dotfiles</h1>
-![Screenshot](screenshots/preview.png)  
-*(Click to view full-size screenshot)*
+
+![explorer_6eytPQeX1a](https://github.com/user-attachments/assets/96da2325-6ca1-4b9b-bfc0-219b25abcdea)
+![explorer_wl21gvaNer](https://github.com/user-attachments/assets/c6518e2c-24f8-43d3-916a-2ddd4e4cb851)
+![explorer_IYOiDAoetV](https://github.com/user-attachments/assets/5f5e6624-aeb5-4720-8f97-c1bcbb745e9a)
+![image](https://github.com/user-attachments/assets/dbe87dac-e2ba-4923-ad32-83e46f908a93)
+![image](https://github.com/user-attachments/assets/c96b2e3a-3268-4656-9d10-a1e463fbfe2d)
+
 
 ## 🛠️ Used
 
