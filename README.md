@@ -63,7 +63,7 @@
     ---
 
     ### 🖥️ Taskbar Height and Icon Size
-    Go to the mod → **Details** → **Advanced**, and paste the following:
+    Go to the mod → **Advanced**, paste this to **Mod settings** and save:
 
     ```json
     {"IconSize":30,"TaskbarHeight":67,"TaskbarButtonWidth":50}
@@ -72,7 +72,7 @@
     ---
 
     ### 🕒 Taskbar Clock Customization
-    Go to the mod → **Details** → **Advanced**, and paste:
+    Go to the mod → **Advanced**, paste this to **Mod settings** and save:
 
     ```json
     {"ShowSeconds":0,"TimeFormat":"HH' 'mm'","DateFormat":"dd  MMM  ddd","WeekdayFormat":"dddd","TopLine":"","BottomLine":"%time%  |  %date% %newline% ","MiddleLine":"%weekday%","TooltipLine":"%web1_full%","Width":180,"Height":60,"TextSpacing":1,"WebContentsItems[0].Url":"https://feeds.bbci.co.uk/news/world/rss.xml","WebContentsItems[0].BlockStart":"<item>","WebContentsItems[0].Start":"<title><![CDATA[","WebContentsItems[0].End":"]]></title>","WebContentsItems[0].MaxLength":28,"WebContentsUpdateInterval":10,"TimeStyle.Visible":0,"TimeStyle.TextColor":"Black","TimeStyle.TextAlignment":"","TimeStyle.FontSize":0,"TimeStyle.FontFamily":"Anurati","TimeStyle.FontWeight":"SemiBold","TimeStyle.FontStyle":"Regular","TimeStyle.FontStretch":"","TimeStyle.CharacterSpacing":0,"DateStyle.TextColor":"White","DateStyle.TextAlignment":"","DateStyle.FontSize":12,"DateStyle.FontFamily":"Anurati","DateStyle.FontWeight":"SemiBold","DateStyle.FontStyle":"Regular","DateStyle.FontStretch":"","DateStyle.CharacterSpacing":1,"oldTaskbarOnWin11":0}
@@ -81,7 +81,7 @@
     ---
 
     ### 🪟 Start Menu Styler
-    Go to the mod → **Details** → **Advanced**, and paste:
+    Go to the mod → **Advanced**, paste this to **Mod settings** and save:
 
     ```json
     {"theme":"Down Aero","controlStyles[0].target":"StartDocked.StartSizingFrame","controlStyles[0].styles[0]":"MaxHeight=750","controlStyles[1].target":"StartMenu.PinnedList","controlStyles[1].styles[0]":"Height=600"}
@@ -90,9 +90,8 @@
     ---
 
 
-
     ### 🔔 Windows 11 Notification Center Styler
-    Go to the mod → **Details** → **Advanced**, and paste:
+    Go to the mod → **Advanced**, paste this to **Mod settings** and save:
 
     ```json
     {"controlStyles[0].target":"Grid#NotificationCenterGrid","controlStyles[0].styles[0]":"Background:=<AcrylicBrush TintColor=\"#000000\" TintOpacity=\"0.5\" FallbackColor=\"{ThemeResource SystemChromeLowColor}\" />","controlStyles[0].styles[1]":"CornerRadius=8","controlStyles[1].target":"Grid#CalendarCenterGrid","controlStyles[1].styles[0]":"Background:=<AcrylicBrush TintColor=\"#000000\" TintOpacity=\"0.5\" FallbackColor=\"{ThemeResource SystemChromeLowColor}\" />","controlStyles[1].styles[1]":"CornerRadius=8","controlStyles[2].target":"ScrollViewer#CalendarControlScrollViewer","controlStyles[2].styles[0]":"Background:=<AcrylicBrush Opacity=\"0\"/>","controlStyles[3].target":"Border#CalendarHeaderMinimizedOverlay","controlStyles[3].styles[0]":"Background:=<AcrylicBrush Opacity=\"0\"/>","controlStyles[4].target":"ActionCenter.FocusSessionControl#FocusSessionControl > Grid#FocusGrid","controlStyles[4].styles[0]":"Background:=<AcrylicBrush Opacity=\"0\"/>","controlStyles[5].target":"MenuFlyoutPresenter","controlStyles[5].styles[0]":"Background:=<AcrylicBrush TintColor=\"#000000\" TintOpacity=\"0.5\" FallbackColor=\"{ThemeResource SystemChromeLowColor}\" />","controlStyles[5].styles[1]":"CornerRadius=8","controlStyles[5].styles[2]":"Padding=2,4,2,4","controlStyles[6].target":"Border#JumpListRestyledAcrylic","controlStyles[6].styles[0]":"Background:=<AcrylicBrush TintColor=\"#000000\" TintOpacity=\"0.5\" FallbackColor=\"{ThemeResource SystemChromeLowColor}\" />","controlStyles[6].styles[1]":"CornerRadius=8","controlStyles[6].styles[2]":"Margin=-2,-2,-2,-2","controlStyles[7].target":"Grid#ControlCenterRegion","controlStyles[7].styles[0]":"Background:=<AcrylicBrush TintColor=\"#000000\" TintOpacity=\"0.5\" FallbackColor=\"{ThemeResource SystemChromeLowColor}\" />","controlStyles[7].styles[1]":"CornerRadius=8","controlStyles[8].target":"Windows.UI.Xaml.Controls.Grid#L1Grid > Border","controlStyles[8].styles[0]":"Background:=<SolidColorBrush Color=\"Transparent\"/>","controlStyles[9].target":"Windows.UI.Xaml.Controls.Grid#MediaTransportControlsRegion","controlStyles[9].styles[0]":"Background:=<AcrylicBrush TintColor=\"#000000\" TintOpacity=\"0.5\" FallbackColor=\"{ThemeResource SystemChromeLowColor}\" />","controlStyles[9].styles[1]":"CornerRadius=8","controlStyles[10].target":"Grid#MediaTransportControlsRoot","controlStyles[10].styles[0]":"Background:=<SolidColorBrush Color=\"Transparent\"/>","controlStyles[11].target":"ContentPresenter#PageContent","controlStyles[11].styles[0]":"Background:=<SolidColorBrush Color=\"Transparent\"/>","controlStyles[12].target":"ContentPresenter#PageContent > Grid > Border","controlStyles[12].styles[0]":"Background:=<SolidColorBrush Color=\"Transparent\"/>","controlStyles[13].target":"QuickActions.ControlCenter.AccessibleWindow#PageWindow > ContentPresenter > Grid#FullScreenPageRoot","controlStyles[13].styles[0]":"Background:=<SolidColorBrush Color=\"Transparent\"/>","controlStyles[14].target":"QuickActions.ControlCenter.AccessibleWindow#PageWindow > ContentPresenter > Grid#FullScreenPageRoot > ContentPresenter#PageHeader","controlStyles[14].styles[0]":"Background:=<SolidColorBrush Color=\"Transparent\"/>","controlStyles[15].target":"ScrollViewer#ListContent","controlStyles[15].styles[0]":"Background:=<SolidColorBrush Color=\"Transparent\"/>","controlStyles[16].target":"ActionCenter.FlexibleToastView#FlexibleNormalToastView","controlStyles[16].styles[0]":"Background:=<SolidColorBrush Color=\"Transparent\"/>","controlStyles[17].target":"Border#ToastBackgroundBorder2","controlStyles[17].styles[0]":"Background:=<AcrylicBrush TintColor=\"#000000\" TintOpacity=\"0.5\" FallbackColor=\"{ThemeResource SystemChromeLowColor}\" />","controlStyles[17].styles[1]":"CornerRadius=8","controlStyles[18].target":"JumpViewUI.SystemItemListViewItem > Grid#LayoutRoot > Border#BackgroundBorder","controlStyles[18].styles[0]":"FocusVisualPrimaryThickness=0,0,0,0","controlStyles[18].styles[1]":"FocusVisualSecondaryThickness=0,0,0,0","controlStyles[19].target":"JumpViewUI.JumpListListViewItem > Grid#LayoutRoot > Border#BackgroundBorder","controlStyles[19].styles[0]":"FocusVisualPrimaryThickness=0,0,0,0","controlStyles[20].target":"ActionCenter.FlexibleItemView","controlStyles[20].styles[0]":"CornerRadius=8","controlStyles[0].styles[2]":"BorderBrush:=<SolidColorBrush Color=\"{ThemeResource SurfaceStrokeColorDefault}\" />","controlStyles[1].styles[2]":"BorderBrush:=<SolidColorBrush Color=\"{ThemeResource SurfaceStrokeColorDefault}\" />","controlStyles[5].styles[3]":"BorderBrush:=<SolidColorBrush Color=\"{ThemeResource SurfaceStrokeColorDefault}\" />","controlStyles[6].styles[3]":"BorderBrush:=<SolidColorBrush Color=\"{ThemeResource SurfaceStrokeColorDefault}\" />","controlStyles[7].styles[2]":"BorderBrush:=<SolidColorBrush Color=\"{ThemeResource SurfaceStrokeColorDefault}\" />","controlStyles[9].styles[2]":"BorderBrush:=<SolidColorBrush Color=\"{ThemeResource SurfaceStrokeColorDefault}\" />","controlStyles[17].styles[2]":"BorderBrush:=<SolidColorBrush Color=\"{ThemeResource SurfaceStrokeColorDefault}\" />","theme":"","controlStyles[1].styles[3]":"Shadow:=","controlStyles[0].styles[3]":"Shadow:=","controlStyles[5].styles[4]":"Shadow:=","controlStyles[6].styles[4]":"Shadow:=","controlStyles[7].styles[3]":"Shadow:=","controlStyles[9].styles[3]":"Shadow:=","controlStyles[17].styles[3]":"Shadow:=","resourceVariables[0].variableKey":"","resourceVariables[0].value":"","controlStyles[21].target":"Windows.UI.Xaml.Controls.Grid#SuggestionUIGrid","controlStyles[21].styles[0]":"Background:=<AcrylicBrush TintColor=\"Black\" TintLuminosityOpacity=\"0.12\" TintOpacity=\"0\" Opacity=\"1\" FallbackColor=\"#70262626\"/>"}
@@ -102,7 +101,29 @@
 
 
     ### 🎨 UXTheme Hook
-    No configuration needed — just install it to enable third-party theme support.
+      1. **Enable UXTheme Hook**  
+        Open the WinHawk app and turn on **UXTheme Hook**.  
+        > 💡 This patcher allows non-Microsoft themes to be used on Windows..
+
+      2. **Download the theme ZIP file**  
+        Go to the link and download the ZIP file containing the Gruvbox theme.
+
+      3. **Extract the ZIP file**  
+        - Right-click the downloaded ZIP file.  
+        - Choose **Extract All…**  
+
+      4. **Copy the `gruvbox` folder**  
+        - Open the folder where you extracted the files.  
+        - Find the folder named `gruvbox`.
+        - copy this foler to this location
+          ```
+          C:\Windows\Resources\Themes\
+          ``` 
+
+      5. **Apply the theme**  
+        - Open **Settings** on your PC.  
+        - Go to **Personalization > Themes**.  
+        - Choose your Gruvbox theme and apply it.
 
     ---
 
