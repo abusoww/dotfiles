@@ -108,14 +108,12 @@
         Download the Gruvbox theme ZIP file → Right-click → Extract All…
 
       4. **Copy the `gruvbox` folder**  
-        - Find the extracted gruvbox folder and copy it to:
+        Find the extracted gruvbox folder and copy it to:
         ```C:\Windows\Resources\Themes\```
 
 
       5. **Apply the theme**  
-        - Open **Settings** on your PC.  
-        - Go to **Personalization > Themes**.  
-        - Choose your Gruvbox theme and apply it.
+        Go to Settings > Personalization > Themes, select your Gruvboxtheme, and apply!
 
     ---
 
