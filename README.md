@@ -2,10 +2,11 @@
 
 <div align = center>
 
-&ensp;[<kbd> <br> Screenshots <br> </kbd>](https://github.com/abusoww/dotfiles/edit/main/README.md#--my-current-desktop-dotfiles)&ensp;
+&ensp;[<kbd> <br> Screenshots <br> </kbd>](#--my-current-desktop-dotfiles)&ensp;
 &ensp;[<kbd> <br> Stuff I used <br> </kbd>](#%EF%B8%8F-used)&ensp;
-&ensp;[<kbd> <br> Installation <br> </kbd>](##Installation)&ensp;
-&ensp;[<kbd> <br> Recomendations <br> </kbd>](#Recomendations)&ensp;
+&ensp;[<kbd> <br> Installation <br> </kbd>](#-installation)&ensp;
+&ensp;[<kbd> <br> Walpapers <br> </kbd>](#%EF%B8%8F-wallpapers)&ensp;
+&ensp;[<kbd> <br> Recomendations <br> </kbd>](#-other-open-source-softwares-i-use)&ensp;
 <br><br></div>
 
 
