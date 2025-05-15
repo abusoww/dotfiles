@@ -102,23 +102,15 @@
 
     ### 🎨 UXTheme Hook
       1. **Open the WinHawk app and turn on **UXTheme Hook**. **  
-      
-        > 💡 This patcher allows non-Microsoft themes to be used on Windows..
+        💡 This patcher allows non-Microsoft themes to be used on Windows..
 
       2. **Download the theme ZIP file**  
-        Go to the link and download the ZIP file containing the Gruvbox theme.
-
-      3. **Extract the ZIP file**  
-        - Right-click the downloaded ZIP file.  
-        - Choose **Extract All…**  
+        Download the Gruvbox theme ZIP file → Right-click → Extract All…
 
       4. **Copy the `gruvbox` folder**  
-        - Open the folder where you extracted the files.  
-        - Find the folder named `gruvbox`.
-        - copy this foler to this location
-          ```
-          C:\Windows\Resources\Themes\
-          ``` 
+        - Find the extracted gruvbox folder and copy it to:
+        ```C:\Windows\Resources\Themes\```
+
 
       5. **Apply the theme**  
         - Open **Settings** on your PC.  
