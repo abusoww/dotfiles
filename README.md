@@ -215,9 +215,9 @@
 
 | Column 1 | Column 2 | Column 3 |
 |---------|---------|---------|
-| ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/cabin-4.png) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/cabin-5.png) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/cat-in-clouds.png) | 
+| ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/cabin-4.png) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/1.jpg) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/cat-in-clouds.png) | 
 | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/painting-standing.jpg) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/degirled.png) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/tower.png) | 
-| ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/wanderer.jpg) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/tux-socialism.jpg) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/windows-error.jpg) | 
+| ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/wanderer.jpg) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/tux-socialism.jpg) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/light-theme.png) | 
 
 
 <div align="center">
