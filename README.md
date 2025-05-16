@@ -144,6 +144,26 @@
 
 
    </details>
+
+
+   <details>
+   <summary>🧊 Apply cutom Icon Pack</summary>
+       
+   #### Requirements:
+   - [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) installed
+   - Our pre-configured icon pack:  
+     [Night_Owl_IconPack_7TSP.7z](https://github.com/abusoww/dotfiles/raw/main/7tsp%20icons/Night_Owl_IconPack_7TSP.7z)
+
+   #### Installation:
+   1. **Download** the icon pack .7z file
+   2. **Open 7TSP GUI** as Administrator
+   3. Click "Add a Custom Pack" and select the .7z file
+   4. Click "Start Patching" and wait for completion
+   5. **Restart** your computer when prompted
+
+   > 💡 Note: Create a system restore point before patching for safety 
+
+   </details>
     
 
 
