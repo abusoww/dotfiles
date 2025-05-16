@@ -68,6 +68,11 @@
    * **Restart Explorer** if needed
       
      > 🔍 Modifying any values may break the layout
+     
+     > 💡 Note: For the best appearance i suggest you to enable auto hide taskbar
+
+       ![explorer_bz0ddsawil](https://github.com/user-attachments/assets/f80157cb-98b4-4c1a-863f-8aa9796dee0b)
+
 
      </details>
 
