@@ -35,13 +35,13 @@
 
 ## 🚀 Installation
 
-1. **Prerequisites**
+### **1. Prerequisites**
 - Windows 10/11 (64-bit)
 - [Windhawk](https://windhawk.net/) installed
 
+---
 
-
-2. **Install Mods in Windhawk**:
+### **2. Install Mods in Windhawk**:
    - Open Windhawk → Explore
    - Install:
      - `Taskbar Styler` 
@@ -52,25 +52,24 @@
      - `Windows 11 File Explorer Styler`
      - `UXTheme hook`
 
+---
 
+### **3. Apply Custom Configurations**:
 
-3. **Apply Custom Configurations**:
+   <details>
+   <summary>⚠️ Important Note</summary>
 
-      <details>
-      <summary>⚠️ Important Note</summary>
-
-      For **perfect visual match** (1920×1080 screens as me):
-      * **Apply these 3 mods together**:
-         - `Taskbar Height and Icon Size`
-         - `Taskbar Styler`
-         - `Taskbar Clock Customization`
-      * **Use exact configs** from this guide
-      * **Refresh** with `Ctrl+R` in Windhawk
-      * **Restart Explorer** if needed
+   For **perfect visual match** (1920×1080 screens as me):
+   * **Apply these 3 mods together**:
+     - `Taskbar Height and Icon Size`
+      - `Taskbar Styler`
+      - `Taskbar Clock Customization`
+   * **Use exact configs** from this guide
+   * **Restart Explorer** if needed
       
-         > 🔍 Modifying any values may break the layout
+     > 🔍 Modifying any values may break the layout
 
-      </details>
+     </details>
 
 
       <details>
@@ -127,8 +126,8 @@
 
 
 
-
-<h3>4. These are optional</h3>
+---
+### **4. These are optional**
 
 
    <details>
@@ -220,9 +219,12 @@
 
 
 
-| Screen Capture          |  [ShareX](https://getsharex.com/)                               |
+| Screen Capture          | [ShareX](https://getsharex.com/)                               |
 |-------------------------|-------------------------------------------------------------------|
 | Window Management       |  [AltSnap](https://github.com/RamonUnch/AltSnap)               |
 | Touchpad Gestures       |  [GestureSign](https://www.softpedia.com/get/System/OS-Enhancements/GestureSign.shtml) |
 | Code Editor             |  [Sublime Text](https://www.sublimetext.com/)                   |
+| Secure Messaging        |  [Signal](https://signal.org/)                                 |
+| Password Manager        |  [Bitwarden](https://bitwarden.com/)                                 |
+| Windows Spotlight replacement        |  [Flow Launcher](https://www.flowlauncher.com/)                                 |
 | Secure Messaging        |  [Signal](https://signal.org/)                                 |
