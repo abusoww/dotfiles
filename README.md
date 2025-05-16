@@ -227,4 +227,5 @@
 | Secure Messaging        |  [Signal](https://signal.org/)                                 |
 | Password Manager        |  [Bitwarden](https://bitwarden.com/)                                 |
 | Windows Spotlight replacement        |  [Flow Launcher](https://www.flowlauncher.com/)                                 |
-| Secure Messaging        |  [Signal](https://signal.org/)                                 |
+| Advanced Uninstaller        |  [BCUN](https://github.com/Klocman/Bulk-Crap-Uninstaller)                                 |
+| Software to debloat Win11        |  [winutil](https://github.com/ChrisTitusTech/winutil)                                 |
