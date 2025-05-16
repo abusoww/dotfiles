@@ -186,10 +186,18 @@
     
 
    <details>
-   <summary>👆 Apply cutom Cursor</summary>
-    
-
-
+   <summary>🖱️ Apply Custom Cursor</summary>
+   
+   ### How to Install:
+   1. **Download**: Get a cursor pack from [vsthemes.org/cursors](https://vsthemes.org/en/cursors/)
+   2. **Extract** the ZIP file
+   3. **Install**:
+      - Right-click `Install.inf` → "Install"
+      - Go to:  
+        `Settings > Personalization > Themes > Mouse cursor`
+   4. **Select** your new cursor scheme
+   
+   > 💡 **Tip**: Some packs include preview images - choose one matching your theme!
    </details>
 
 
