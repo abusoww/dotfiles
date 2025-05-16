@@ -131,13 +131,13 @@
 
 
    <details>
-   <summary>🎨 UXTheme Hook</summary>
+   <summary>🎨 Apply Gruvbox Theme</summary>
 
    *  **Open the WinHawk app and turn on UXTheme Hook**  
         > 💡 *This patcher allows non-Microsoft themes to be used on Windows.*
 
 
-   * **Download the theme ZIP file**  
+   * **Download the theme [ZIP file](https://github.com/abusoww/dotfiles/raw/refs/heads/main/.themes/Windows%2011%20Gruvbox%20Themes.zip)**  
         Download the Gruvbox theme ZIP file → Right-click → Extract All…
 
    * **Copy the files to `themes` folder**  
@@ -185,7 +185,12 @@
    </details>
     
 
+   <details>
+   <summary>👆 Apply cutom Cursor</summary>
+    
 
+
+   </details>
 
 
 <div align = center>
