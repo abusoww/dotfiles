@@ -23,7 +23,7 @@
 ## 🛠️ Used
 
 - Widgets using [Rainmeter](https://www.rainmeter.net/)
-- Taskbar and Start menu configured using Windhawk [Windhawk](https://windhawk.net/)
+- Taskbar and Start menu configured using [Windhawk](https://windhawk.net/)
 - Explorer tweaked using [Windows 11 File Explorer Styler](https://windhawk.net/mods/windows-11-file-explorer-styler)
 - Theme is [Gruvbox](https://www.deviantart.com/niivu/art/Gruvbox-For-Windows-11-884680533) by Niivu
 - **Icons:** [Night Owl](https://www.deviantart.com/niivu/art/Night-Owl-for-Windows-11-1111452963) Icon Pack
