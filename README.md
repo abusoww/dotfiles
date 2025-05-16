@@ -180,7 +180,7 @@
 
 
 
-| Screen Capture          | 📸 [ShareX](https://getsharex.com/)                               |
+| Screen Capture          |  [ShareX](https://getsharex.com/)                               |
 |-------------------------|-------------------------------------------------------------------|
 | Window Management       |  [AltSnap](https://github.com/RamonUnch/AltSnap)               |
 | Touchpad Gestures       |  [GestureSign](https://www.softpedia.com/get/System/OS-Enhancements/GestureSign.shtml) |
