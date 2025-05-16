@@ -140,8 +140,8 @@
    * **Download the theme ZIP file**  
         Download the Gruvbox theme ZIP file → Right-click → Extract All…
 
-   * **Copy the `gruvbox` folder**  
-        Find the extracted gruvbox folder and copy it to:
+   * **Copy the files to `themes` folder**  
+        Find the extracted files and copy them to:
         ```
         C:\Windows\Resources\Themes\
         ```
