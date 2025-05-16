@@ -35,7 +35,7 @@
 
 ## 🚀 Installation
 
-### **1. Prerequisites**
+### **1. Requirements:**
 - Windows 10/11 (64-bit)
 - [Windhawk](https://windhawk.net/) installed
 
