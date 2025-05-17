@@ -210,7 +210,7 @@
    </details>
 
    <details>
-   <summary>Custom Chrome/Brave theme</summary>
+   <summary>🌐 Custom Chrome/Brave theme</summary>
 
    # Installation instructions
      
