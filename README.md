@@ -272,7 +272,7 @@
 | Software to debloat Win11        |  [winutil](https://github.com/ChrisTitusTech/winutil)                                 |
 
 
-
+<div align="right">
 
 ## 📜 License
 Licensed under the [MIT License](LICENSE) <br>
