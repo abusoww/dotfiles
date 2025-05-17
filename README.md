@@ -39,6 +39,7 @@
 - Windows 10/11 (64-bit)
 - [Windhawk](https://windhawk.net/) installed
 
+     > 💡 Windhawk is completely safe to use because it only modifies running processes in memory (no permanent system changes), uses less than 5MB RAM per mod, all mods are open-source for inspection, and any changes can be instantly reverted by disabling the mod.
 ---
 
 ### **2. Install Mods in Windhawk**:
