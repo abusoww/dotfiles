@@ -220,6 +220,12 @@
      
    
    > **💡 To reset or remove the theme, visit `chrome://settings` and click "Reset to Default" in the "Appearance" section.**
+
+   ![image](https://github.com/user-attachments/assets/eff9cee5-954b-4ee5-b6e0-da271e79ab71)
+   ![image](https://github.com/user-attachments/assets/57d2cb72-7b12-4cea-a85c-867e2a750e27)
+
+     
+
    </details>
 
 
