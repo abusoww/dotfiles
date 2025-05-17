@@ -209,6 +209,21 @@
    > 💡 **Tip**: Some packs include preview images - choose one matching your theme!
    </details>
 
+   <details>
+   <summary>Custom Chrome/Brave theme </summary>
+
+   # Installation instructions
+     
+   ## Chrome
+     
+   1. Launch Chrome and go to `chrome://extensions`.
+   2. Check the "Developer mode" checkbox at the top.
+   3. Click the "Load unpacked extension..." button and choose the desired theme directory (`Chrome/Themer Dark` or `Chrome/Themer Light`).
+     
+   
+   > 💡 To reset or remove the theme, visit `chrome://settings` and click "Reset to Default" in the "Appearance" section.
+   </details>
+
 
 <div align = center>
 
