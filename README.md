@@ -210,18 +210,18 @@
    </details>
 
    <details>
-   <summary>Custom Chrome/Brave theme </summary>
+   <summary>Custom Chrome/Brave theme</summary>
 
    # Installation instructions
      
-   ## Chrome
      
-   1. Launch Chrome and go to `chrome://extensions`.
-   2. Check the "Developer mode" checkbox at the top.
-   3. Click the "Load unpacked extension..." button and choose the desired theme directory (`Chrome/Themer Dark` or `Chrome/Themer Light`).
+   1. Download theme [ZIP file](https://github.com/abusoww/dotfiles/raw/refs/heads/main/chrome/gruvbox%20chrome-brave%20theme.zip) and extract files
+   2. Launch Chrome/Brave and go to `chrome://extensions`. 
+   3. Check the "Developer mode" checkbox at the top.
+   4. Click the "Load unpacked extension" button and choose the desired theme folder (`chrome/Gruvbox-Dark` or `chrome/Gruvbox-Day`)
      
    
-   > 💡 To reset or remove the theme, visit `chrome://settings` and click "Reset to Default" in the "Appearance" section.
+   > **💡 To reset or remove the theme, visit `chrome://settings` and click "Reset to Default" in the "Appearance" section.**
    </details>
 
 
