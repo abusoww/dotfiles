@@ -243,7 +243,7 @@
 | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/wanderer.jpg) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/tux-socialism.jpg) | ![](https://github.com/abusoww/dotfiles/blob/main/wallpapers/light-theme.png) | 
 
 
-<div align="center">
+
 
 | [Full Collection](https://github.com/abusoww/dotfiles/blob/main/wallpapers/walpapers.md) |
 |-------------------------------------------------------------------|
@@ -253,7 +253,7 @@
 </details>
 
 
-
+<div align="center">
 
 
 ## 🚀 Other Open Source Softwares I Use
@@ -270,3 +270,16 @@
 | Windows Spotlight replacement        |  [Flow Launcher](https://www.flowlauncher.com/)                                 |
 | Advanced Uninstaller        |  [BCUN](https://github.com/Klocman/Bulk-Crap-Uninstaller)                                 |
 | Software to debloat Win11        |  [winutil](https://github.com/ChrisTitusTech/winutil)                                 |
+
+
+
+
+## 📜 License
+Licensed under the [MIT License](LICENSE) <br>
+Feel free to use and modify these dotfiles.
+
+
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
