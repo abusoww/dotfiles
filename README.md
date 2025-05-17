@@ -244,7 +244,7 @@
 | Screen Capture          | [ShareX](https://getsharex.com/)                               |
 |-------------------------|-------------------------------------------------------------------|
 | Window Management       |  [AltSnap](https://github.com/RamonUnch/AltSnap)               |
-| Touchpad Gestures       |  [GestureSign](https://www.softpedia.com/get/System/OS-Enhancements/GestureSign.shtml) |
+| Touchpad Gestures       |  [GestureSign](https://github.com/TransposonY/GestureSign) |
 | Code Editor             |  [Sublime Text](https://www.sublimetext.com/)                   |
 | Secure Messaging        |  [Signal](https://signal.org/)                                 |
 | Password Manager        |  [Bitwarden](https://bitwarden.com/)                                 |
