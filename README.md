@@ -245,7 +245,7 @@
 
 <div align="center">
 
-| [Full Collection](https://github.com/abusoww/dotfiles/tree/main/wallpapers) |
+| [Full Collection](https://github.com/abusoww/dotfiles/wallpapers/walpapers.md) |
 |-------------------------------------------------------------------|
 
 </div>
