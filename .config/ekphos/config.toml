@@ -1,0 +1,4 @@
+notes_dir = "~/OBSIDIAN"
+welcome_shown = false
+theme = "soft-paper"
+show_empty_dir = true

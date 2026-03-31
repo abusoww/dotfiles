@@ -1,0 +1,285 @@
+mouse:
+  gestures:
+    # ---------------------------------------------------------
+    # 1: Ctrl + C
+    # ---------------------------------------------------------
+    - type: stroke
+      strokes: 'YxsAAGQbAJ4JFT03AE5kAA=='
+      mouse_buttons: [ forward ]
+      actions:
+#        - on: end
+#          command: notify-send "Gesture Executed" "Ctrl + C"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftctrl+c ]
+
+    # ---------------------------------------------------------
+    # 2: Ctrl + V
+    # ---------------------------------------------------------
+    - type: stroke
+      strokes: 'AAwAAGQOOTNgV2QA'
+      mouse_buttons: [ forward ]
+      actions:
+#        - on: end
+#          command: notify-send "Gesture Executed" "Ctrl + V"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftctrl+v ]
+
+    # ---------------------------------------------------------
+    # 3: Win + J (Super + J)
+    # ---------------------------------------------------------
+    - type: stroke
+      strokes: 'ZDMAolEwEmMAMmQA'
+      mouse_buttons: [ forward ]
+      actions:
+#        - on: end
+#          command: notify-send "Gesture Executed" "Win + J"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftmeta+j ]
+
+    # ---------------------------------------------------------
+    # 4: Win + K (Super + K)
+    # ---------------------------------------------------------
+    - type: stroke
+      strokes: 'ACoAMwA2CwBkOWQA'
+      mouse_buttons: [ forward ]
+      actions:
+#        - on: end
+#          command: notify-send "Gesture Executed" "Win + K"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftmeta+k ]
+
+    # ---------------------------------------------------------
+    # Gesture 5: (Super + I) 
+    # ---------------------------------------------------------
+    - type: stroke
+      strokes: 'NWQAzzUnO8kuAGQA'
+      mouse_buttons: [ forward ]
+      actions:
+#        - on: end
+#          command: notify-send "Super + I"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftmeta+i ]
+
+    # ---------------------------------------------------------
+    # Gesture 6: (Super + M)
+    # ---------------------------------------------------------
+    - type: stroke
+      strokes: 'LgAALzVkZAA='
+      mouse_buttons: [ forward ]
+      actions:
+#        - on: end
+#          command: notify-send "Super + M"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftmeta+m ]
+
+    # ---------------------------------------------------------
+    # Gesture 7: (Super + Q) an X sign
+    # ---------------------------------------------------------
+    - type: stroke
+      strokes: 'ACcAzQAkARsTPAwTIkYSBTlKGvRJRCDpVzcn4mEpLdRkGjO9XRA3rFIKO2FGCz9TPBBESDMbSUIYS1xLCVljvwlZZAA='
+      mouse_buttons: [ forward ]
+      actions:
+#        - on: end
+#          command: notify-send "Super + Q"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftmeta+q ]
+
+    # ---------------------------------------------------------
+    # Gesture 8: (Super + O) clockwise square
+    # ---------------------------------------------------------
+    - type: stroke
+      strokes: 'ESQA/mAfGDBkYCygAFZKzwEDZAA='
+      mouse_buttons: [ forward ]
+      actions:
+#        - on: end
+#          command: notify-send "Super + O"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftmeta+o ]
+
+
+
+
+    # ---------------------------------------------------------
+    # Gesture 8: (Super + V) V sign
+    # ---------------------------------------------------------
+    - type: stroke
+      strokes: 'HgwALiErDykqSyAgOWQvzjgnTtM7FFjdRQBkAA=='
+      mouse_buttons: [ forward ]
+      actions:
+#        - on: end
+#          command: notify-send "Super + V"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftmeta+v ]
+
+
+    # ---------------------------------------------------------
+    # Hold Forward + Left Click + Move to smoothly MOVE window
+    # ---------------------------------------------------------
+    - type: swipe
+      mouse_buttons: [ forward, left ]
+      direction: any
+      actions:
+        - on: begin
+          input:
+            # Hold Super and Left Click
+            - keyboard: [ +leftmeta ]
+            - mouse: [ +left ]
+        - on: update
+          input:
+            # Continuously pass the exact mouse movement to KDE
+            - mouse: [ move_by_delta ]
+        - on: end_cancel
+          input:
+            # Release everything when you let go
+            - keyboard: [ -leftmeta ]
+            - mouse: [ -left ]
+
+    # ---------------------------------------------------------
+    # Hold Forward + Right Click + Move to smoothly RESIZE window
+    # ---------------------------------------------------------
+    - type: swipe
+      mouse_buttons: [ forward, right ]
+      direction: any
+      actions:
+        - on: begin
+          input:
+            # Hold Super and Right Click
+            - keyboard: [ +leftmeta ]
+            - mouse: [ +right ]
+        - on: update
+          input:
+            - mouse: [ move_by_delta ]
+        - on: end_cancel
+          input:
+            - keyboard: [ -leftmeta ]
+            - mouse: [ -right ]
+
+touchpad:
+  gestures:
+    # ---------------------------------------------------------
+    # 4-Finger Stroke: Copy (Ctrl + C)
+    # ---------------------------------------------------------
+    - type: stroke
+      fingers: 4
+      strokes: 'YwAAYQAIMy4JZGQA'
+      actions:
+        - on: end
+          command: notify-send "Touchpad" "Copied to clipboard"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftctrl+c ]
+
+    # ---------------------------------------------------------
+    # 4-Finger Stroke: Paste (Ctrl + V)
+    # ---------------------------------------------------------
+    - type: stroke
+      fingers: 4
+      strokes: 'AwAAAmAHMjNcZGQA'
+      actions:
+        - on: end
+          command: notify-send "Touchpad" "Pasted from clipboard"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftctrl+v ]
+
+
+    # ---------------------------------------------------------
+    # 4-Finger Stroke: Super + K
+    # ---------------------------------------------------------
+    - type: stroke
+      fingers: 4
+      strokes: 'ZC0AYAA2ZAA='
+      actions:
+        - on: end
+          command: notify-send "leftmeta+k"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftmeta+k ]
+
+    # ---------------------------------------------------------
+    # 4-Finger Stroke: Super + J
+    # ---------------------------------------------------------
+    - type: stroke
+      fingers: 4
+      strokes: 'ADIA/zovOgRkNGQA'
+      actions:
+        - on: end
+          command: notify-send "leftmeta+j"
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftmeta+j ]
+
+    # ---------------------------------------------------------
+    # 3-Finger Pinch In: Copy
+    # ---------------------------------------------------------
+    - type: pinch
+      fingers: 3
+      direction: in
+      actions:
+        - on: begin
+          delay: 1
+          input:
+            - keyboard: [ leftctrl+c ]
+
+    # ---------------------------------------------------------
+    # 3-Finger Pinch Out: Paste
+    # ---------------------------------------------------------
+    - type: pinch
+      fingers: 3
+      direction: out
+      actions:
+        - on: begin
+          delay: 1
+          input:
+            - keyboard: [ leftctrl+v ]
+
+
+
+
+    # ---------------------------------------------------------
+    # 4-Finger Stroke UP: Next Browser Tab
+    # ---------------------------------------------------------
+    - type: stroke
+      fingers: 4
+      # You must record a straight upward stroke and paste the hash here
+      strokes: 'MQAAMTJkZAA='
+      actions:
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftctrl+tab ]
+
+    # ---------------------------------------------------------
+    # 4-Finger Stroke DOWN: Previous Browser Tab
+    # ---------------------------------------------------------
+    - type: stroke
+      fingers: 4
+      # You must record a straight downward stroke and paste the hash here
+      strokes: 'HGQA20cAZAA='
+      actions:
+        - on: end
+          delay: 1
+          input:
+            - keyboard: [ leftctrl+leftshift+tab ]

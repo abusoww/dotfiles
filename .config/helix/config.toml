@@ -1,0 +1,37 @@
+theme = "everforest_dark"
+
+[editor]
+bufferline = "always"
+line-number = "absolute"
+cursorline  = true
+color-modes = true
+true-color  = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+
+# [editor.file-picker]
+# hidden = false
+
+
+
+[keys.normal]
+C-s = [":w!"]
+C-w = [":buffer-close", "normal_mode"]
+y = [":clipboard-yank", "yank"]
+C-right = [":bn"]
+C-left = [":bp"]
+
+
+[keys.insert]
+C-s = [":w!"]
+C-w = [":buffer-close", "normal_mode"]
+C-right = [":bn"]
+C-left = [":bp"]
+
+
+[keys.select]
+y = [":clipboard-yank", "yank"]

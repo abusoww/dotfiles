@@ -1,0 +1,71 @@
+# Ekphos Dawn - Warm Paper (Kitty Hybrid)
+# Warm charcoal background with Rosewater text
+
+[base]
+# SHIFTED: Slightly warmer/browner than standard terminal to get "Paper" feel
+background = "#353339"          
+background_secondary = "#2e2c33"
+foreground = "#F2D5CF"          # Rosewater (Cream)
+muted = "#736e7d"               # Warm muted grey
+
+[accent]
+primary = "#8CAAEE"             # Blue (Matches Kitty)
+secondary = "#F4B8E4"           # Pink (Matches Kitty)
+
+[semantic]
+error = "#E78284"               # Red
+warning = "#E5C890"             # Yellow
+success = "#A6D189"             # Green
+info = "#81C8BE"                # Teal
+
+[ui]
+border = "#51576D"              # Blue-grey border (creates nice contrast)
+border_focused = "#F2D5CF"      # Cream focused border
+selection = "#45434f"           # Warm selection
+cursor = "#F2D5CF"              # Rosewater
+
+# Status bar component
+[ui.statusbar]
+background = "#2e2c33"          # Warm dark grey
+foreground = "#F2D5CF"
+brand = "#8CAAEE"
+mode = "#736e7d"
+separator = "#51576D"
+
+# Dialog/popup component
+[ui.dialog]
+background = "#353339"
+border = "#F2D5CF"
+title = "#8CAAEE"
+text = "#F2D5CF"
+
+# Sidebar component
+[ui.sidebar]
+background = "#353339"
+item = "#F2D5CF"
+item_selected = "#BABBF1"       # Lavender
+folder = "#8CAAEE"
+folder_expanded = "#8CAAEE"
+
+# Content view component
+[ui.content]
+background = "#353339"
+text = "#F2D5CF"
+heading1 = "#8CAAEE"
+heading2 = "#A6D189"
+heading3 = "#E5C890"
+heading4 = "#F4B8E4"
+link = "#81C8BE"
+link_invalid = "#E78284"
+code = "#A6D189"
+code_background = "#2e2c33"
+blockquote = "#736e7d"
+list_marker = "#E5C890"
+
+# Outline component
+[ui.outline]
+background = "#353339"
+heading1 = "#8CAAEE"
+heading2 = "#A6D189"
+heading3 = "#E5C890"
+heading4 = "#F4B8E4"

@@ -1,0 +1,70 @@
+# Ekphos Dawn - Default Theme
+# A smooth dark theme with blue accents
+
+[base]
+background = "#1a1a24"
+background_secondary = "#24243a"
+foreground = "#c0caf5"
+muted = "#565f89"
+
+[accent]
+primary = "#7aa2f7"
+secondary = "#bb9af7"
+
+[semantic]
+error = "#f7768e"
+warning = "#e0af68"
+success = "#9ece6a"
+info = "#7dcfff"
+
+[ui]
+border = "#3b4261"
+border_focused = "#7aa2f7"
+selection = "#283457"
+cursor = "#c0caf5"
+
+# Status bar component
+[ui.statusbar]
+background = "#1a1a24"
+foreground = "#c0caf5"
+brand = "#7aa2f7"
+mode = "#565f89"
+separator = "#3b4261"
+
+# Dialog/popup component
+[ui.dialog]
+background = "#1a1a24"
+border = "#7aa2f7"
+title = "#7aa2f7"
+text = "#c0caf5"
+
+# Sidebar component
+[ui.sidebar]
+background = "#1a1a24"
+item = "#c0caf5"
+item_selected = "#e0af68"
+folder = "#7dcfff"
+folder_expanded = "#7dcfff"
+
+# Content view component
+[ui.content]
+background = "#1a1a24"
+text = "#c0caf5"
+heading1 = "#7aa2f7"
+heading2 = "#9ece6a"
+heading3 = "#e0af68"
+heading4 = "#bb9af7"
+link = "#7dcfff"
+link_invalid = "#f7768e"
+code = "#9ece6a"
+code_background = "#24243a"
+blockquote = "#565f89"
+list_marker = "#bb9af7"
+
+# Outline component
+[ui.outline]
+background = "#1a1a24"
+heading1 = "#7aa2f7"
+heading2 = "#9ece6a"
+heading3 = "#e0af68"
+heading4 = "#bb9af7"
